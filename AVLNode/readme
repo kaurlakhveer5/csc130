@@ -1,0 +1,1 @@
+This was an Alogrithm design class assignment. We need to create a giat array of random numbers. Then take one number at a time and start building an AVL tree. Then, start removing the smallest number node and build another AVL tree. Th epurpose was to learn, how to add and delete nodes in an AVL tree. 
